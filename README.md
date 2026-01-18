@@ -15,8 +15,6 @@ The project focuses on **control gap analysis**, **regulatory alignment**, and *
 
 The audited organization (**Botium Toys**) is fictional and used strictly for educational and portfolio purposes.
 
----
-
 ## Frameworks & Standards
 
 - **NIST Cybersecurity Framework (CSF)**
@@ -30,8 +28,6 @@ The audited organization (**Botium Toys**) is fictional and used strictly for ed
   - PCI DSS
   - GDPR
   - SOC 1 / SOC 2 (Trust Services Criteria)
-
----
 
 ## Audit Components
 
@@ -88,15 +84,12 @@ This repository represents a finished internal security audit artifact, not a dr
 - The audit is evidence-based, with traceability between findings and recommendations.
 - Structure and terminology align with real-world SOC, GRC, and internal audit practices.
 
----
-
 ## Author
 
 Ilias Korompilis
 
----
-
 ## License
 
 Academic and educational use only.
+
 
