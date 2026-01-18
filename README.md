@@ -5,8 +5,6 @@ The audit evaluates security controls, compliance posture, and overall risk expo
 
 The project focuses on **control gap analysis**, **regulatory alignment**, and **risk-driven security recommendations**, following standard industry audit and GRC practices.
 
----
-
 ## Scope
 
 - Organization-wide internal security audit
@@ -64,11 +62,12 @@ The audited organization (**Botium Toys**) is fictional and used strictly for ed
 
 ## Project Structure
 
+```
 /
 ├── risk_assessment_report.pdf
 ├── controls_and_compliance_checklist.pdf
 └── README.md
-
+```
 
 ---
 
@@ -82,8 +81,6 @@ Included deliverables:
 - Consolidated security recommendations
 
 This repository represents a finished internal security audit artifact, not a draft or partial implementation.
-
----
 
 ## Notes
 
@@ -102,3 +99,4 @@ Ilias Korompilis
 ## License
 
 Academic and educational use only.
+
