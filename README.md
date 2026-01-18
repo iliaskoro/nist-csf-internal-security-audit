@@ -1,7 +1,7 @@
 # NIST CSF Internal Security Audit
 
 This repository contains an internal cybersecurity audit conducted using the **NIST Cybersecurity Framework (CSF)**.  
-The audit evaluates security controls, compliance posture, and overall risk exposure for a **fictional organization**, based on a realistic enterprise scenario.
+The audit evaluates security controls, compliance posture, and overall risk exposure for a fictional organization, based on a realistic enterprise scenario.
 
 The project focuses on control gap analysis, regulatory alignment, and risk-driven security recommendations, following standard industry audit and GRC practices.
 
@@ -91,4 +91,5 @@ Ilias Korompilis
 ## License
 
 Academic and educational use only.
+
 
